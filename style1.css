@@ -1,0 +1,40 @@
+body{
+	background-image: url(itachi.jpg) ;
+	background-repeat: no repeat ;
+	background-size: cover;
+	color: whitesmoke;
+}
+	.nav{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		background-color: whitesmoke;
+		overflow: hidden;
+		background-color: black;
+	}
+	li{
+		float: left;
+	}
+	li a{
+		padding: 16px;
+		text-decoration: none;
+		color:maroon;
+		display:block;
+
+	}
+	li a:hover{
+		background-color:whitesmoke;
+			}
+	.form{
+		margin: ;
+		padding:;
+	}
+	.but{
+		background-color: green;
+	}
+	.but:hover{
+		background-color: red;
+
+	}
+
+
